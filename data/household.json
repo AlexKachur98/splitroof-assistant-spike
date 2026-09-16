@@ -1,0 +1,31 @@
+{
+  "name": "Maple Street",
+  "members": ["Alex", "Sean", "Priya", "Dan"],
+  "budgets": {
+    "groceries": 600,
+    "utilities": 200,
+    "entertainment": 150
+  },
+  "expenses": [
+    { "id": "e01", "date": "2026-09-01", "amount": 2380.00, "category": "rent", "paidBy": "Alex", "splitBetween": ["Alex", "Sean", "Priya", "Dan"], "description": "September rent" },
+    { "id": "e02", "date": "2026-09-02", "amount": 87.32, "category": "groceries", "paidBy": "Sean", "splitBetween": ["Alex", "Sean", "Priya", "Dan"], "description": "Weekly grocery run" },
+    { "id": "e03", "date": "2026-09-03", "amount": 118.44, "category": "utilities", "paidBy": "Priya", "splitBetween": ["Alex", "Sean", "Priya", "Dan"], "description": "Hydro bill" },
+    { "id": "e04", "date": "2026-09-04", "amount": 34.88, "category": "household", "paidBy": "Priya", "splitBetween": ["Alex", "Sean", "Priya", "Dan"], "description": "Cleaning supplies" },
+    { "id": "e05", "date": "2026-09-05", "amount": 45.68, "category": "groceries", "paidBy": "Dan", "splitBetween": ["Alex", "Sean", "Priya", "Dan"], "description": "Produce market" },
+    { "id": "e06", "date": "2026-09-06", "amount": 64.50, "category": "entertainment", "paidBy": "Alex", "splitBetween": ["Alex", "Sean", "Priya"], "description": "Concert tickets" },
+    { "id": "e07", "date": "2026-09-08", "amount": 112.40, "category": "groceries", "paidBy": "Alex", "splitBetween": ["Alex", "Sean", "Priya", "Dan"], "description": "Bulk store run" },
+    { "id": "e08", "date": "2026-09-09", "amount": 52.16, "category": "household", "paidBy": "Dan", "splitBetween": ["Alex", "Sean", "Priya", "Dan"], "description": "Light bulbs and batteries" },
+    { "id": "e09", "date": "2026-09-11", "amount": 63.24, "category": "groceries", "paidBy": "Priya", "splitBetween": ["Alex", "Sean", "Priya", "Dan"], "description": "Corner store top-up" },
+    { "id": "e10", "date": "2026-09-12", "amount": 74.96, "category": "utilities", "paidBy": "Priya", "splitBetween": ["Alex", "Sean", "Priya", "Dan"], "description": "Internet" },
+    { "id": "e11", "date": "2026-09-13", "amount": 38.70, "category": "entertainment", "paidBy": "Sean", "splitBetween": ["Sean", "Priya", "Dan"], "description": "Bowling night" },
+    { "id": "e12", "date": "2026-09-15", "amount": 94.16, "category": "groceries", "paidBy": "Sean", "splitBetween": ["Alex", "Sean", "Priya", "Dan"], "description": "Chicken thighs, rice and seltzer" },
+    { "id": "e13", "date": "2026-09-16", "amount": 96.00, "category": "household", "paidBy": "Priya", "splitBetween": ["Alex", "Sean", "Dan"], "description": "Replacement vacuum" },
+    { "id": "e14", "date": "2026-09-17", "amount": 27.60, "category": "household", "paidBy": "Alex", "splitBetween": ["Alex", "Sean", "Priya", "Dan"], "description": "Dish soap and paper towels" },
+    { "id": "e15", "date": "2026-09-18", "amount": 24.60, "category": "entertainment", "paidBy": "Priya", "splitBetween": ["Alex", "Sean", "Priya", "Dan"], "description": "Streaming subscription" },
+    { "id": "e16", "date": "2026-09-19", "amount": 58.92, "category": "groceries", "paidBy": "Dan", "splitBetween": ["Alex", "Sean", "Priya", "Dan"], "description": "Butcher" },
+    { "id": "e17", "date": "2026-09-20", "amount": 29.96, "category": "entertainment", "paidBy": "Dan", "splitBetween": ["Alex", "Dan"], "description": "Movie night" },
+    { "id": "e18", "date": "2026-09-21", "amount": 41.76, "category": "household", "paidBy": "Sean", "splitBetween": ["Alex", "Sean", "Priya", "Dan"], "description": "Laundry detergent and bins" },
+    { "id": "e19", "date": "2026-09-22", "amount": 71.08, "category": "groceries", "paidBy": "Alex", "splitBetween": ["Alex", "Sean", "Priya", "Dan"], "description": "Weekly grocery run" },
+    { "id": "e20", "date": "2026-09-24", "amount": 46.72, "category": "groceries", "paidBy": "Priya", "splitBetween": ["Alex", "Sean", "Priya", "Dan"], "description": "Bakery and coffee" }
+  ]
+}
